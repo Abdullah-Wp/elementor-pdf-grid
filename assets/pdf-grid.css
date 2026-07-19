@@ -1,0 +1,42 @@
+.epg-grid-container {
+	display: grid;
+}
+
+.epg-item-link {
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	text-decoration: none;
+	transition: all 0.3s ease;
+}
+
+.epg-hover-float:hover {
+	transform: translateY(-5px);
+}
+
+.epg-img-wrapper {
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	transition: all 0.3s ease;
+}
+
+.epg-item-img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	transition: all 0.3s ease;
+}
+
+.epg-item-content {
+	display: block;
+	flex-grow: 1;
+}
+
+.epg-item-title,
+.epg-item-desc {
+	margin: 0;
+	padding: 0;
+	transition: color 0.3s ease;
+}
