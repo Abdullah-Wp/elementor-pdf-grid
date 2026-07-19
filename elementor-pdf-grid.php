@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Elementor PDF Grid Widget
- * Plugin URI: https://abdullahwp.com/elementor-pdf-grid-widget
+ * Plugin URI: https://abdullahwp.com/elementor-pdf-grid-widget/
  * Description: A custom Elementor widget to display a grid of PDFs with thumbnails, titles, and descriptions.
  * Version: 1.0.0
  * Author: AbdullahWP
